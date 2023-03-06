@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>NLP Club</title>
-    <link>https://andras-simonyi.github.io/nlp-club/</link>
-    <description>Recent content on NLP Club</description>
+    <title>Posts on NLP Club</title>
+    <link>https://andras-simonyi.github.io/nlp-club/posts/</link>
+    <description>Recent content in Posts on NLP Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andras-simonyi.github.io/nlp-club/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://andras-simonyi.github.io/nlp-club/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Upcoming meeting: GPT factual knowledge editing and RL from human feedback</title>
+      <title>10 March 2023: GPT factual knowledge editing and RL from human feedback</title>
       <link>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</guid>
-      <description>Fri, 10 March 2023, 15:00
+      <description>Friday, 10 March 2023, 15:00
 ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
 Papers Meng, Kevin, David Bau, Alex Andonian, and Yonatan Belinkov. 2022. “Locating and Editing Factual Knowledge in GPT.” Arxiv Preprint Arxiv:2202.05262. https://arxiv.org/pdf/2202.05262.pdf.
 Ouyang, Long, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L Wainwright, Pamela Mishkin, Chong Zhang, et al. 2022. “Training Language Models to Follow Instructions with Human Feedback.” Arxiv Preprint Arxiv:2203.02155. https://arxiv.org/pdf/2203.02155.pdf.</description>
