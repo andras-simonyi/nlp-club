@@ -1,0 +1,10 @@
+baseURL = 'https://andras-simonyi.github.io/nlp-club/'
+languageCode = 'en-us'
+title = 'NLP Club'
+
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
