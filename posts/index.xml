@@ -29,5 +29,17 @@ Papers Taori, Rohan, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Ca
 Ouyang, Long, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L Wainwright, Pamela Mishkin, Chong Zhang, et al. 2022. “Training Language Models to Follow Instructions with Human Feedback.” Arxiv Preprint Arxiv:2203.</description>
     </item>
     
+    <item>
+      <title>5 May 2023: Vision-language models</title>
+      <link>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</guid>
+      <description>Friday, 5 May 2023, 15:00
+ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
+Papers Radford, Alec, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, et al. 2021. “Learning Transferable Visual Models from Natural Language Supervision.” In International Conference on Machine Learning, 8748–63. PMLR. https://arxiv.org/pdf/2103.00020.pdf.
+Alayrac, Jean-Baptiste, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, et al. 2022. “Flamingo: A Visual Language Model for Few-Shot Learning” 35: 23716–36.</description>
+    </item>
+    
   </channel>
 </rss>
