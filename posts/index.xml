@@ -5,36 +5,14 @@
     <link>https://andras-simonyi.github.io/nlp-club/posts/</link>
     <description>Recent content in Posts on NLP Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andras-simonyi.github.io/nlp-club/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>10 March 2023: GPT factual knowledge editing</title>
-      <link>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</guid>
-      <description>Friday, 10 March 2023, 15:00
-ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
-Papers Meng, Kevin, David Bau, Alex Andonian, and Yonatan Belinkov. 2022. “Locating and Editing Factual Knowledge in GPT.” Arxiv Preprint Arxiv:2202.05262. https://arxiv.org/pdf/2202.05262.pdf.</description>
-    </item>
-    
-    <item>
-      <title>14 April 2023: Training instruction-following models: RL from human feedback and Self-instruct</title>
-      <link>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</guid>
-      <description>Friday, 14 April 2023, 15:00
-ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
-Papers Taori, Rohan, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. 2023. “Stanford Alpaca: An Instruction-Following Llama Model.” https://crfm.stanford.edu/2023/03/13/alpaca.html.
-Ouyang, Long, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L Wainwright, Pamela Mishkin, Chong Zhang, et al. 2022. “Training Language Models to Follow Instructions with Human Feedback.” Arxiv Preprint Arxiv:2203.</description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andras-simonyi.github.io/nlp-club/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>19 May 2023: Vision-language models 2: BEiT-3 and Stable Diffusion</title>
-      <link>https://andras-simonyi.github.io/nlp-club/posts/202305019-vision-language-models-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://andras-simonyi.github.io/nlp-club/posts/202305019-vision-language-models-2/</guid>
+      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</guid>
       <description>Friday, 19 May 2023, 15:00
 ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
 Papers Wang, Wenhui, Hangbo Bao, Li Dong, Johan Bjorck, Zhiliang Peng, Qiang Liu, Kriti Aggarwal, et al. 2022. “Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks.” Arxiv Preprint Arxiv:2208.10442. https://arxiv.org/pdf/2208.10442.pdf.
@@ -44,13 +22,36 @@ Rombach, Robin, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Omm
     <item>
       <title>5 May 2023: Vision-language models</title>
       <link>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</guid>
       <description>Friday, 5 May 2023, 15:00
 ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
 Papers Radford, Alec, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, et al. 2021. “Learning Transferable Visual Models from Natural Language Supervision.” In International Conference on Machine Learning, 8748–63. PMLR. https://arxiv.org/pdf/2103.00020.pdf.
 Alayrac, Jean-Baptiste, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, et al. 2022. “Flamingo: A Visual Language Model for Few-Shot Learning” 35: 23716–36.</description>
+    </item>
+    
+    <item>
+      <title>14 April 2023: Training instruction-following models: RL from human feedback and Self-instruct</title>
+      <link>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</guid>
+      <description>Friday, 14 April 2023, 15:00
+ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
+Papers Taori, Rohan, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. 2023. “Stanford Alpaca: An Instruction-Following Llama Model.” https://crfm.stanford.edu/2023/03/13/alpaca.html.
+Ouyang, Long, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L Wainwright, Pamela Mishkin, Chong Zhang, et al. 2022. “Training Language Models to Follow Instructions with Human Feedback.” Arxiv Preprint Arxiv:2203.</description>
+    </item>
+    
+    <item>
+      <title>10 March 2023: GPT factual knowledge editing</title>
+      <link>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</guid>
+      <description>Friday, 10 March 2023, 15:00
+ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
+Papers Meng, Kevin, David Bau, Alex Andonian, and Yonatan Belinkov. 2022. “Locating and Editing Factual Knowledge in GPT.” Arxiv Preprint Arxiv:2202.05262. https://arxiv.org/pdf/2202.05262.pdf.</description>
     </item>
     
   </channel>

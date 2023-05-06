@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</loc>
-  </url><url>
-    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</loc>
-  </url><url>
-    <loc>https://andras-simonyi.github.io/nlp-club/posts/202305019-vision-language-models-2/</loc>
-  </url><url>
-    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</loc>
-  </url><url>
-    <loc>https://andras-simonyi.github.io/nlp-club/categories/</loc>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</loc>
+    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/</loc>
+    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/posts/</loc>
+    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230414-instruction-following-training/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230310-gpt-editing-training/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andras-simonyi.github.io/nlp-club/categories/</loc>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/tags/</loc>
   </url>
