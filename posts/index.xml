@@ -6,7 +6,19 @@
     <description>Recent content in Posts on NLP Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andras-simonyi.github.io/nlp-club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andras-simonyi.github.io/nlp-club/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 June 2023: Language model scaling laws</title>
+      <link>https://andras-simonyi.github.io/nlp-club/posts/20230602-scaling-laws/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andras-simonyi.github.io/nlp-club/posts/20230602-scaling-laws/</guid>
+      <description>Friday, 2 June 2023, 15:00
+ELTE Lágymányos Campus, Northern Building (Pázmány Péter sétány 1/A), room 7.88
+Papers Kaplan, Jared, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. “Scaling Laws for Neural Language Models.” Arxiv Preprint Arxiv:2001.08361. https://arxiv.org/pdf/2001.08361.pdf.
+Hoffmann, Jordan, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, et al. 2022. “Training Compute-Optimal Large Language Models.</description>
+    </item>
+    
     <item>
       <title>19 May 2023: Vision-language models 2: BEiT-3 and Stable Diffusion</title>
       <link>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</link>

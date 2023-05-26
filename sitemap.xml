@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230602-scaling-laws/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/</loc>
-    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/posts/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andras-simonyi.github.io/nlp-club/posts/20230519-vision-language-models-2/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andras-simonyi.github.io/nlp-club/posts/20230505-vision-language-models/</loc>
